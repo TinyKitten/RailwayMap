@@ -13,9 +13,15 @@
     "@bufbuild/protobuf": "^1.10.0",
     "@connectrpc/connect": "^1.4.0",
     "@connectrpc/connect-web": "^1.4.0",
+    "@deck.gl/core": "^9.0.17",
+    "@deck.gl/layers": "^9.0.17",
+    "@deck.gl/react": "^9.0.17",
+    "maplibre-gl": "^4.3.2",
     "next": "14.2.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-map-gl": "^7.1.7",
+    "swr": "^2.2.5"
   },
   "devDependencies": {
     "@bufbuild/buf": "^1.32.2",
@@ -24,6 +30,7 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/react-map-gl": "^6.1.6",
     "eslint": "^8",
     "eslint-config-next": "14.2.3",
     "postcss": "^8",
